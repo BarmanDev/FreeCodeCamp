@@ -1,0 +1,79 @@
+body {
+    margin: auto;
+    border: 25px solid papayawhip;
+    line-height: 1.5;
+    font-size: 1,6em;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    }
+    
+    main {
+      border-radius: 5px;
+      margin: 30px 8px;
+      padding: 15px;
+      background: #dcdcdc;
+    }
+    
+    #image {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      filter: grayscale(0.5) saturate(60%);
+    }
+    
+    #image {
+      margin: auto;
+    }
+    
+    h1, h2, p {
+      text-align: center;
+    }
+    
+    h1 {
+      font-size: 35px;
+      font-family: Tahoma, sans-serif;
+    }
+
+    li{
+      font-weight: 600;
+    }
+    
+    ul, #conclusion  {
+      border: 2px;
+      width: 500px;
+      margin: 20px auto;
+      padding: 0 7px;
+    }
+    #data > li {
+      margin: 20px 0;
+    }
+    
+    #man {
+      margin-top: -10px;
+    }
+    
+    #img-div {
+      background-color: white;
+      padding: 0 100px 10px 100px ;
+      margin: 0;
+    }
+    
+    #img-caption {
+      margin: 15px 0 5px 0;
+    }
+    
+    .life {
+      margin-top: 60px;
+      margin-bottom: 40px;
+    }
+    
+    .info {
+      margin-bottom: 50px;
+    }
+    
+    #conclusion {
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+    
+    
